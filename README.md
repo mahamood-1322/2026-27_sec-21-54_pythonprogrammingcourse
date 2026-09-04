@@ -1,7 +1,7 @@
-#python programming course
-- Institution:NRIU
+#python programming coruse
+- Institution: NRIU
 - Academic Year: 2026-27
 - Course: Python Programming
-- Section:21
-- Serial Number:54
-- Student Name:Syed.Mahamood
+- Section: 21
+- Serial Number: 54
+- Student Name: Syed.Mahamood
