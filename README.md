@@ -1,4 +1,4 @@
-#python programming coruse
+# python programming coruse
 - Institution: NRIU
 - Academic Year: 2026-27
 - Course: Python Programming
